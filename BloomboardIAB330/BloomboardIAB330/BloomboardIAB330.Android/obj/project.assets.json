@@ -1930,24 +1930,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Fletcher\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\jaz\\.nuget\\packages\\": {},
+    "E:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Fletcher\\source\\repos\\AdenHarris\\Bloomboard\\BloomboardIAB330\\BloomboardIAB330\\BloomboardIAB330.Android\\BloomboardIAB330.Android.csproj",
+      "projectUniqueName": "C:\\Users\\jaz\\Source\\Repos\\AdenHarris\\Bloomboard\\BloomboardIAB330\\BloomboardIAB330\\BloomboardIAB330.Android\\BloomboardIAB330.Android.csproj",
       "projectName": "BloomboardIAB330.Android",
-      "projectPath": "C:\\Users\\Fletcher\\source\\repos\\AdenHarris\\Bloomboard\\BloomboardIAB330\\BloomboardIAB330\\BloomboardIAB330.Android\\BloomboardIAB330.Android.csproj",
-      "packagesPath": "C:\\Users\\Fletcher\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Fletcher\\source\\repos\\AdenHarris\\Bloomboard\\BloomboardIAB330\\BloomboardIAB330\\BloomboardIAB330.Android\\obj\\",
+      "projectPath": "C:\\Users\\jaz\\Source\\Repos\\AdenHarris\\Bloomboard\\BloomboardIAB330\\BloomboardIAB330\\BloomboardIAB330.Android\\BloomboardIAB330.Android.csproj",
+      "packagesPath": "C:\\Users\\jaz\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jaz\\Source\\Repos\\AdenHarris\\Bloomboard\\BloomboardIAB330\\BloomboardIAB330\\BloomboardIAB330.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
+        "E:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Fletcher\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -1961,8 +1961,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\Users\\Fletcher\\source\\repos\\AdenHarris\\Bloomboard\\BloomboardIAB330\\BloomboardIAB330\\BloomboardIAB330\\BloomboardIAB330.csproj": {
-              "projectPath": "C:\\Users\\Fletcher\\source\\repos\\AdenHarris\\Bloomboard\\BloomboardIAB330\\BloomboardIAB330\\BloomboardIAB330\\BloomboardIAB330.csproj"
+            "C:\\Users\\jaz\\Source\\Repos\\AdenHarris\\Bloomboard\\BloomboardIAB330\\BloomboardIAB330\\BloomboardIAB330\\BloomboardIAB330.csproj": {
+              "projectPath": "C:\\Users\\jaz\\Source\\Repos\\AdenHarris\\Bloomboard\\BloomboardIAB330\\BloomboardIAB330\\BloomboardIAB330\\BloomboardIAB330.csproj"
             }
           }
         }

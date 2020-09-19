@@ -628,23 +628,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Fletcher\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\jaz\\.nuget\\packages\\": {},
+    "E:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Fletcher\\source\\repos\\AdenHarris\\Bloomboard\\BloomboardIAB330\\BloomboardIAB330\\BloomboardIAB330\\BloomboardIAB330.csproj",
+      "projectUniqueName": "C:\\Users\\jaz\\Source\\Repos\\AdenHarris\\Bloomboard\\BloomboardIAB330\\BloomboardIAB330\\BloomboardIAB330\\BloomboardIAB330.csproj",
       "projectName": "BloomboardIAB330",
-      "projectPath": "C:\\Users\\Fletcher\\source\\repos\\AdenHarris\\Bloomboard\\BloomboardIAB330\\BloomboardIAB330\\BloomboardIAB330\\BloomboardIAB330.csproj",
-      "packagesPath": "C:\\Users\\Fletcher\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Fletcher\\source\\repos\\AdenHarris\\Bloomboard\\BloomboardIAB330\\BloomboardIAB330\\BloomboardIAB330\\obj\\",
+      "projectPath": "C:\\Users\\jaz\\Source\\Repos\\AdenHarris\\Bloomboard\\BloomboardIAB330\\BloomboardIAB330\\BloomboardIAB330\\BloomboardIAB330.csproj",
+      "packagesPath": "C:\\Users\\jaz\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jaz\\Source\\Repos\\AdenHarris\\Bloomboard\\BloomboardIAB330\\BloomboardIAB330\\BloomboardIAB330\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
+        "E:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Fletcher\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -694,7 +694,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
