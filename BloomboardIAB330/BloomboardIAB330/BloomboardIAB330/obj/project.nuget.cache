@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "CGTajVgYcC6gQ7hNmuYfukF/Nd3bZqdlQFqM7+ht9JR44uVfmxN8ySGl70mq5sbQp2L8K4HMQsNM5QqXd7XciA==",
+  "dgSpecHash": "5GCAzzte/jyMgShvSE6gmiSI1Ui27H7OYleOL6aaHIrvitwLF3ib9MEY4UQ5/Ws+E6Ak/Houd7qCB1RD4WDfyw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lachl\\Desktop\\IAB330\\BloomboardIAB330\\BloomboardIAB330\\BloomboardIAB330\\BloomboardIAB330.csproj",
+  "projectFilePath": "C:\\Users\\Fletcher\\Source\\Repos\\AdenHarris\\Bloomboard\\BloomboardIAB330\\BloomboardIAB330\\BloomboardIAB330\\BloomboardIAB330.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\lachl\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\lachl\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
-    "C:\\Users\\lachl\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Fletcher\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Fletcher\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Fletcher\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
   ],

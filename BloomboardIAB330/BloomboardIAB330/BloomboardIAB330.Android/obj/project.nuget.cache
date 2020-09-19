@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UuFQnFVph7s9WjhL6ajHF/LjIaZObwOan43RdVX5uzMjml2dOzs3MNI1N3hkyHOrwenZCW7TL/W010VtQapo6w==",
+  "dgSpecHash": "wxEvdEPq7AUb5WqNJtU4fnIP1DmiKqodyxWDO5JRPLu2PLASehlhALk4pwUgQjClRtZoMsnqRjk5M8gHjUWepw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lachl\\Desktop\\IAB330\\BloomboardIAB330\\BloomboardIAB330\\BloomboardIAB330.Android\\BloomboardIAB330.Android.csproj",
+  "projectFilePath": "C:\\Users\\Fletcher\\Source\\Repos\\AdenHarris\\Bloomboard\\BloomboardIAB330\\BloomboardIAB330\\BloomboardIAB330.Android\\BloomboardIAB330.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.common\\1.1.1.3\\xamarin.android.arch.core.common.1.1.1.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.runtime\\1.1.1.3\\xamarin.android.arch.core.runtime.1.1.1.3.nupkg.sha512",
