@@ -14,4 +14,19 @@
     <PackageReference Include="Xamarin.Forms" Version="4.6.0.1141" />
     <PackageReference Include="Xamarin.Essentials" Version="1.5.3.2" />
   </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Grades - Lachlan.xaml.cs">
+      <DependentUpon>Grades - Lachlan.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="Units - Fletcher.xaml.cs">
+      <DependentUpon>Units - Fletcher.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="Annoucements - Jehiah.xaml.cs">
+      <DependentUpon>Annoucements - Jehiah.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="HomePage - Aden.xaml.cs">
+      <DependentUpon>HomePage - Aden.xaml</DependentUpon>
+    </Compile>
+  </ItemGroup>
 </Project>

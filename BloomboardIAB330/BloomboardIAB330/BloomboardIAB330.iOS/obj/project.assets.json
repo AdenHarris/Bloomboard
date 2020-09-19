@@ -978,24 +978,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Fletcher\\.nuget\\packages\\": {},
+    "C:\\Users\\lachl\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Fletcher\\source\\repos\\AdenHarris\\Bloomboard\\BloomboardIAB330\\BloomboardIAB330\\BloomboardIAB330.iOS\\BloomboardIAB330.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\lachl\\Desktop\\IAB330\\BloomboardIAB330\\BloomboardIAB330\\BloomboardIAB330.iOS\\BloomboardIAB330.iOS.csproj",
       "projectName": "BloomboardIAB330.iOS",
-      "projectPath": "C:\\Users\\Fletcher\\source\\repos\\AdenHarris\\Bloomboard\\BloomboardIAB330\\BloomboardIAB330\\BloomboardIAB330.iOS\\BloomboardIAB330.iOS.csproj",
-      "packagesPath": "C:\\Users\\Fletcher\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Fletcher\\source\\repos\\AdenHarris\\Bloomboard\\BloomboardIAB330\\BloomboardIAB330\\BloomboardIAB330.iOS\\obj\\",
+      "projectPath": "C:\\Users\\lachl\\Desktop\\IAB330\\BloomboardIAB330\\BloomboardIAB330\\BloomboardIAB330.iOS\\BloomboardIAB330.iOS.csproj",
+      "packagesPath": "C:\\Users\\lachl\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\lachl\\Desktop\\IAB330\\BloomboardIAB330\\BloomboardIAB330\\BloomboardIAB330.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Fletcher\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\lachl\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -1009,8 +1009,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\Fletcher\\source\\repos\\AdenHarris\\Bloomboard\\BloomboardIAB330\\BloomboardIAB330\\BloomboardIAB330\\BloomboardIAB330.csproj": {
-              "projectPath": "C:\\Users\\Fletcher\\source\\repos\\AdenHarris\\Bloomboard\\BloomboardIAB330\\BloomboardIAB330\\BloomboardIAB330\\BloomboardIAB330.csproj"
+            "C:\\Users\\lachl\\Desktop\\IAB330\\BloomboardIAB330\\BloomboardIAB330\\BloomboardIAB330\\BloomboardIAB330.csproj": {
+              "projectPath": "C:\\Users\\lachl\\Desktop\\IAB330\\BloomboardIAB330\\BloomboardIAB330\\BloomboardIAB330\\BloomboardIAB330.csproj"
             }
           }
         }
